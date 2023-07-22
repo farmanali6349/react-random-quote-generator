@@ -13,7 +13,6 @@ To install all the necessary packages required.
 
 ```
 npm install
-
 ```
 
 To Start the app
